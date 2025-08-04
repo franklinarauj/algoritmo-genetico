@@ -32,11 +32,13 @@ A interface é construída com **Streamlit**, oferecendo visualização em tempo
 ## Requisitos
 
 - Python 3.10+ (testado em ambientes similares)
-- Bibliotecas:
+- Bibliotecas (instaladas via `requirements.txt` ou manualmente):
   - streamlit
   - pandas
   - numpy
   - plotly
+
+Obs.: Foi adicionado as versões das bibliotecas utilizadas no projeto no arquivo `requirements.txt`, garantindo que o ambiente de execução seja consistente e compatível.
 
 ## Instalação
 
